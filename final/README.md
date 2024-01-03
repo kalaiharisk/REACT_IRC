@@ -1,34 +1,4 @@
-# Little Lemon - Restaurant's Booking Site
 
-A Concept for a Restaurant's Booking Portal for my project review in college
-
-> **💡 Note** - Apologies for my lackluster effort at documentation and explanation. I'm losing patience with this Course xD 
-
-### Usage 
-
-Clone to your system 
-
-```
-git clone 
-cd LittleLemonCoursera
-```
-
-Install Dependencies
-
-```
-npm i
-```
-
-Run the project 
-
-```
-npm start
-```
-
-If you're trying to build & deploy
-
-```
-npm build
 ```
 # Haribhavanam Restaurant ReactJS Project
 
@@ -52,9 +22,11 @@ The project follows a modular structure with different pages for distinct functi
 - **Reservation Page:** Make reservations to secure your spot at Haribhavanam Restaurant.
 
 ## Getting Started
+1.CD-change to your current directory
 
-1. Clone the repository:
 
-   ```bash
-   git clone 
+2.npm install-type this comment to install all the node modules
+
+
+3.npm start-when we type this comment and then press enter,your page will redirect into localhost of reactapp
 
