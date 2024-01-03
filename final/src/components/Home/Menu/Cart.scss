@@ -1,0 +1,70 @@
+/* Cart.scss (or you can use inline styles in your component) */
+
+.cart {
+    background-color: #fff;
+    border: 2px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  .cart-item {
+    display: flex;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 10px;
+  }
+  
+  .cart-item img {
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+    margin-right: 20px;
+    border-radius: 4px;
+  }
+  
+  .item-info {
+    flex-grow: 1;
+  }
+  
+  h3 {
+    color: #333;
+  }
+  
+  p {
+    color: #666;
+  }
+  
+  .price {
+    color: #e44d26;
+    font-weight: bold;
+    margin-right: 10px;
+  }
+  
+  button {
+    background-color: #e44d26;
+    color: #fff;
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+  }
+  
+  button:hover {
+    background-color: #333;
+  }
+  
+  .total {
+    margin-top: 20px;
+    text-align: right;
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+  }
+  

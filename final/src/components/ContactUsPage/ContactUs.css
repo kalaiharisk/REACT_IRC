@@ -1,0 +1,91 @@
+/* ContactUs.css */
+
+.contact-us-container {
+    max-width: 100%;
+    max-height: 100%;
+    margin: 0 auto; 
+    padding: 20px;
+    background-color: #f8f8f8;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(240, 237, 237, 0.1);
+    background-image: url("https://5.imimg.com/data5/SELLER/Default/2021/7/SC/CG/SY/4850605/img-20190225-wa0018-500x500.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+  
+  .main-heading {
+    font-style: inherit;
+    text-align: center;
+    font-variant: small-caps;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 60px;
+    color: #ff9900;
+    font-weight: 900;
+    text-overflow: ellipsis;
+    text-shadow: #fffefe;
+    text-decoration-color: aqua;
+  }
+  
+  .sub-text {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    font-size: larger;
+    text-align: center;
+    padding: 10px;
+    color: #ffffff;
+  }
+  .email-section{
+    background-color: #f8f8f8;
+    background-size: cover;
+    margin-bottom: 20px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-weight: 700;
+    color: rgb(241, 165, 0);
+    padding:10px;
+
+  }
+  
+  .info-section,
+  .social-section {
+    margin-bottom: 20px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-weight: 400;
+    color: rgb(230, 115, 8);
+    padding:20px;
+  }
+    
+  .info-text1{ text-align: center;
+    font-size: medium;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    
+  }
+  .info-text,
+  .social-icons,
+  .social-button {
+    text-align: center;
+    font-size: medium;
+    color: rgb(0, 0, 0);
+    padding: 10px;
+  }
+  
+  .social-button {
+    font-size: medium;
+    background: white;
+    border: none;
+    margin-right: 10px;
+  }
+  
+  .email-link {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .email-link:hover {
+    text-decoration: underline;
+  }
+  

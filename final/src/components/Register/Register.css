@@ -1,0 +1,77 @@
+/* Register.css */
+
+.abc {
+    background-color: #080707; /* Replace with the color you desire */
+    height: 100vh; /* Set the height to 100% of the viewport height */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.signup-container {
+    border-radius: 100px;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 10px;
+    background-color: #69c9b4; /* Set a background color for the container if needed */
+}
+
+.signup-title {
+    font-size: 4em;
+    color: #2c2a2a;
+    border-top: 30px;
+}
+
+.signup-subtitle {
+    font-size: 1.2em;
+    color: #d1d1d1;
+}
+
+.signup-form {
+    margin-top: 2em;
+}
+
+.form-field {
+    margin-bottom: 1.5em;
+}
+
+.label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 0.5em;
+}
+
+.input-field {
+    width: 100%;
+    padding: 0.5em;
+}
+
+.checkbox-text {
+    font-size: 0.9em;
+}
+
+.checkbox {
+    margin-right: 0.5em;
+}
+
+.submit-button {
+    padding: 0.7em 1.5em;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.signup-footer {
+    margin-top: 2em;
+}
+
+.back-link {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.back-link:hover {
+    text-decoration: underline;
+}
